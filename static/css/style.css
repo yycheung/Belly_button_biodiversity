@@ -1,0 +1,19 @@
+body {
+
+    color: #050505;
+    background-color: #ffffff;
+  }
+
+  .tag {
+    font-family: inherit; 
+    font-size: 1rem;
+   }  
+
+  .jumbotron {
+    background-image: url("../image/jumbotron1_img.png");
+    background-size: 100%;
+    text-align: center;
+    font-family:Arial;
+    color: #fff8f8;
+  };
+
